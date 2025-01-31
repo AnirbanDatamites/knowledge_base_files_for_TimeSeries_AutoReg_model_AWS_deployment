@@ -37,6 +37,6 @@ def predict():
 if __name__ == "__main__":
     app.run(debug=True, host='0.0.0.0', port=8080)
 
-    
+#Note: please check your file path of your model and modify the model path over here accordigly and also you can change the port at the end based on your requirement, instead of port=8080, you can use any other port to run your model based on your situation.     
 
 
